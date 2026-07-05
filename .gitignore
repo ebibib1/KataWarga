@@ -1,0 +1,40 @@
+# dependencies
+node_modules/
+
+# duplicate / backup folders
+katawarga_fe - Copy/
+katawarga_mobile/
+KataWargaMobile/
+salinan/
+Salinan/
+
+# temp & prompt notes
+*.txt
+MEMORY.md
+SWOT.txt
+
+# generated sql / scripts
+full_schema.sql
+skema_database_indo.sql
+generate_*.js
+
+# diagram & draft files
+*.drawio
+*.drawio.xml
+project_erd.drawio
+
+# project management artifacts
+*.xlsx
+
+# all markdown files except README
+*.md
+!README.md
+
+# environment files
+.env
+.env.local
+.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
